@@ -16,7 +16,7 @@ on:
           - production
 
 jobs:
-  sync:
+  backup-sync:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository

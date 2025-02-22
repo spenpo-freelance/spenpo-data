@@ -1,0 +1,3 @@
+kind: Changed
+body: rename job to backup-sync and rename gitignores to gitkeep
+time: 2025-02-22T14:41:58.82354+08:00
